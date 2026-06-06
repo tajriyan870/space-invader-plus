@@ -10,8 +10,8 @@
 
 | Name | Institution |
 |------|------------|
-| Tajriyan Rahman | SRH University of Applied Sciences, Leipzig |
-| Panharith An | SRH University of Applied Sciences, Leipzig |
+| Tajriyan Rahman | SRH University of Applied Sciences, Berlin |
+| Panharith An | SRH University of Applied Sciences, Berlin |
 
 ---
 
