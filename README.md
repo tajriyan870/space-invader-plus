@@ -144,3 +144,5 @@ This project is a non-commercial fan recreation built for educational and hackat
 ---
 
 *Made with love and way too much caffeine — SRH Leipzig, 2026*
+
+## Demo: https://vimeo.com/1199023725?share=copy&fl=sv&fe=ci
